@@ -1,8 +1,9 @@
 # Challenger-Among-Us
 Challenger MOD by Lunastellia 
-Challenger ver. Beta.
+http://twitch.tv/lunastellia
 
 
+Version => Challenger ver. Beta 3.36
 
 NEW Roles :
 
@@ -19,6 +20,9 @@ How to install :
 
 > Just download this file : https://github.com/Lunastellia/Challenger-Among-Us/archive/Launcher.zip
 > extract files, open folder "Challenger-Among-Us-1.0.0" and execute (right click + Run to Administrator) Launcher.exe for download/Update the game !
+
+Bugs or feature suggestions :
+You can join me at : Lunastellia.Oriana@gmail.com
 
 Resources :
 
