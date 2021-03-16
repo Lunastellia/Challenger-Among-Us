@@ -14,15 +14,17 @@ NEW Roles :
 * Mercenary - Help the impostors and stay alive ! impostors can kill you and you can kill impostors... after the first kill you will become an impostor !
  for the first round your cooldown kill is 1 minute
 * TimeLord - Break the time, all player can't moove and see nothing at all only TimeLord can play at this time ! (Actually doesnt work correctly) 
+ NEW MOD 
+
+* Include Other MOD = Better Pollus : by BryBry 
+https://github.com/Brybry16/BetterPolus
 
 How to install : 
 
 
 > Just download this file : https://github.com/Lunastellia/Challenger-Among-Us/archive/Launcher.zip
 > extract files, open folder "Challenger-Among-Us-1.0.0" and execute (right click + Run to Administrator) Launcher.exe for download/Update the game !
-
-Bugs or feature suggestions :
-You can join me at : Lunastellia.Oriana@gmail.com
+> If you have a Bugs or feature suggestions : You can join me at : Lunastellia.Oriana@gmail.com
 
 Resources :
 
@@ -32,9 +34,6 @@ https://github.com/NuclearPowered/Reactor
 https://github.com/BepInEx 
 * Essentials By DorCoMaNdO
 https://github.com/DorCoMaNdO/Reactor-Essentials
-
-* Include Other MOD = Better Pollus : by BryBry 
-https://github.com/Brybry16/BetterPolus
 
 Credits :
 
