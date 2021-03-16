@@ -2,6 +2,8 @@
 Challenger MOD by Lunastellia 
 Challenger ver. Beta.
 
+
+
 NEW Roles :
 
 * Guardian - Create a shield for protect 1 other player : imposter can't kill, the sherif and the mercenary die if they try !
@@ -14,8 +16,9 @@ NEW Roles :
 
 How to install : 
 
-Just download this file, extract files, open folder "Among Us Challenger" and execute :
-(right click + Run to Administrator) Launcher.exe for download/Update the game !
+
+> Just download this file : https://github.com/Lunastellia/Challenger-Among-Us/archive/Launcher.zip
+> extract files, open folder "Among Us Challenger" and execute (right click + Run to Administrator) Launcher.exe for download/Update the game !
 
 Resources :
 
