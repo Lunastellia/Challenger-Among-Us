@@ -18,7 +18,7 @@ How to install :
 
 
 > Just download this file : https://github.com/Lunastellia/Challenger-Among-Us/archive/Launcher.zip
-> extract files, open folder "Among Us Challenger" and execute (right click + Run to Administrator) Launcher.exe for download/Update the game !
+> extract files, open folder "Challenger-Among-Us-1.0.0" and execute (right click + Run to Administrator) Launcher.exe for download/Update the game !
 
 Resources :
 
