@@ -14,8 +14,8 @@ NEW Roles :
 
 How to install : 
 
-Just download this file, extract files, open folder and execute :
-(right click + Execute to Administrator) Launcher.exe for download/Update the game !
+Just download this file, extract files, open folder "Among Us Challenger" and execute :
+(right click + Run to Administrator) Launcher.exe for download/Update the game !
 
 Resources :
 
