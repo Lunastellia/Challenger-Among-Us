@@ -5,7 +5,7 @@ http://twitch.tv/lunastellia
 
 Version => Challenger ver. Beta 3.36
 
-NEW Roles :
+- NEW Roles :
 
 * Guardian - Create a shield for protect 1 other player : imposter can't kill, the sherif and the mercenary die if they try !
 * Engineer - You can use vent's and repair 1 sabotage from anywhere and instantly (juste 1 time at the game)
@@ -14,8 +14,9 @@ NEW Roles :
 * Mercenary - Help the impostors and stay alive ! impostors can kill you and you can kill impostors... after the first kill you will become an impostor !
  for the first round your cooldown kill is 1 minute
 * TimeLord - Break the time, all player can't moove and see nothing at all only TimeLord can play at this time ! (Actually doesnt work correctly) 
- NEW MOD 
+ 
 
+- NEW Features :
 * Include Other MOD = Better Pollus : by BryBry 
 https://github.com/Brybry16/BetterPolus
 
