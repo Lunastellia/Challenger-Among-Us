@@ -5,7 +5,7 @@ http://twitch.tv/lunastellia
 
 Version => Challenger ver. Beta 3.36
 
-- NEW Roles :
+ NEW Roles :
 
 * Guardian - Create a shield for protect 1 other player : imposter can't kill, the sherif and the mercenary die if they try !
 * Engineer - You can use vent's and repair 1 sabotage from anywhere and instantly (juste 1 time at the game)
@@ -16,7 +16,7 @@ Version => Challenger ver. Beta 3.36
 * TimeLord - Break the time, all player can't moove and see nothing at all only TimeLord can play at this time ! (Actually doesnt work correctly) 
  
 
-- NEW Features :
+ NEW Features :
 * Include Other MOD = Better Pollus : by BryBry 
 https://github.com/Brybry16/BetterPolus
 
@@ -27,7 +27,7 @@ How to install :
 > extract files, open folder "Challenger-Among-Us-1.0.0" and execute (right click + Run to Administrator) Launcher.exe for download/Update the game !
 > If you have a Bugs or feature suggestions : You can join me at : Lunastellia.Oriana@gmail.com
 
-Resources :
+ Resources :
 
 * Framework : Reactor
 https://github.com/NuclearPowered/Reactor
@@ -36,7 +36,7 @@ https://github.com/BepInEx
 * Essentials By DorCoMaNdO
 https://github.com/DorCoMaNdO/Reactor-Essentials
 
-Credits :
+ Credits :
 
 * NotHunter101 (ExtraRolesAmongUs) For codes snippets
 https://github.com/NotHunter101/ExtraRolesAmongUs
