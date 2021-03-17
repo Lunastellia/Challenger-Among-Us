@@ -7,14 +7,13 @@ Version => Challenger ver. Beta 3.36
 
  NEW Roles :
 
-* Guardian - Create a shield for protect 1 other player : imposter can't kill, the sherif and the mercenary die if they try !
-* Engineer - You can use vent's and repair 1 sabotage from anywhere and instantly (juste 1 time at the game)
-* Sherif - Kill the Impostor (+Jester + Mercenary) if you try to kill an innocent person, you just kill yourself !
-* Jester - Get voted off for win the game ! (no task for this role)
-* Mercenary - Help the impostors and stay alive ! impostors can kill you and you can kill impostors... after the first kill you will become an impostor !
- for the first round your cooldown kill is 1 minute
-* TimeLord - Break the time, all player can't moove and see nothing at all only TimeLord can play at this time ! (Actually doesnt work correctly) 
- 
+* Shérif = (Team Crewmate) The sherif can kill the impostors, jester and mercenaries. If he tries to kill a crewmate or any player protected by a shield, he will die.
+* Engineer = (Team Crewmate) The engineer can use the vents just like the impostors and he can also fix one sabotage per game from anywhere thanks to the buttom repair.
+* Guardian = (Team Crewmate) The guardian can protect one player of his choice with a shield once in the game, the player protected can’t be killed by the impostors. If a sherif or a mercenary tries to kill the protected player, he will kill himself.
+* Jester = (Team Jester) The jester doesn’t have any tasks. The only way the jester wins is if he gets voted during a meeting by the other players.
+* TimeLord = (Team Crewmate) The timelord can stop time, all immobilized players can’t see anything and can’t move. Also the impostor’s cooldown is stopped. Only the timelord is active during this phase !
+* Mercenary = (Team Impostor/Crewmate) The mercenary is per default neutral, he doesn’t have any taks and as the possibilty to kill. At the start of the game, he has a cooldown of one minute. Once he kills somebody, he will become impostor and know and will be knowed by the other impostors. He will also unlock the sabotages and the possibility to vent. Careful, he can also be killed by an impostor or kill one of them ! If the mercenary doesn’t kill anyone he will stay as a crewmate but can still be killed by the sherif.
+
 
  NEW Features :
 * Include Other MOD = Better Pollus : by BryBry 
