@@ -1,5 +1,5 @@
-#### Challenger-Among-Us
-# Challenger MOD by Lunastellia
+# Challenger-Among-Us
+### Challenger MOD by Lunastellia
 
 This is a mod that adds new roles and a feature to Among Us.
 *Note this only works with others who have installed the mod also, aka your friends.*
@@ -105,6 +105,7 @@ BryBry16 (BetterPolus) https://github.com/Brybry16/BetterPolus
 Download the zip at the top of the page
 Extract files and open the folder "Challenger-Among-Us-Launcher"
 Execute (right click + Run to Administrator) Launcher.exe to download/Update the game!
+(Using Patchkit service for auto Update files, it is tempoary, we are creating a custom launcher + download server for the next updates.)
 
 # /!\ Bugs Reported (we are working on it)
 - The timelord doesn't work (the "break" button remains even if the timelord dies and he can use it during the meetings) i don't advise you to use this role !
