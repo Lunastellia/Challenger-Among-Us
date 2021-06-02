@@ -3,6 +3,7 @@
 
 Infos MOD => https://amodsus.com/resources/challenger-mod.103/
 
+![Install](https://amodsus.com/attachments/1-7-0-png.488/)
 
 ## New Oriana Launcher Release 
 
