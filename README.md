@@ -1,10 +1,11 @@
 # Challenger-Among-Us
 ### Challenger MOD by Lunastellia
 
-![Install](https://amodsus.com/attachments/2-0-0-png.489/)
+![Install](https://amodsus.com/attachments/challengermask-png.522/)
 
 ## New Oriana Launcher Release 
 
+> Do not Patch the originals game ! for install follow this method !
 > Download and Installe Dotnet 5.0.5
 > https://download.visualstudio.microsoft.com/download/pr/c1ef0b3f-9663-4fc5-85eb-4a9cadacdb87/52b890f91e6bd4350d29d2482038df1c/windowsdesktop-runtime-5.0.5-win-x64.exe
 
