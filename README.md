@@ -1,7 +1,7 @@
 # Challenger-Among-Us
 ### Challenger MOD by Lunastellia
 
-![Install](https://amodsus.com/attachments/challengermask-png.522/)
+![Install](https://amodsus.com/attachments/challenger3-2-png.529/)
 
 ## New Oriana Launcher Release 
 
