@@ -29,21 +29,25 @@ BepInEx  https://github.com/BepInEx
 
 DorCoMaNdO (Essentials) (DorCoMaNdO) https://github.com/DorCoMaNdO/Reactor-Essentials
 
-BryBry16 (BetterPolus) https://github.com/Brybry16/BetterPolus
+BryBry16 (BetterPolus) https://github.com/Brybry16/BetterPolus - For Betterpolus map 
 
-NotHunter101 (ExtraRolesAmongUs) https://github.com/NotHunter101/ExtraRolesAmongUs
+NotHunter101 (ExtraRolesAmongUs) https://github.com/NotHunter101/ExtraRolesAmongUs - For code Snippet (Help to create : Guardian / Engineer / Sheriff)
 
-Hardel-DW (TooManyRolesMods/Thanos) https://github.com/Hardel-DW/TooManyRolesMods / https://github.com/Hardel-DW/ModsThanos
+Hardel-DW (TooManyRolesMods/Thanos) https://github.com/Hardel-DW/TooManyRolesMods / https://github.com/Hardel-DW/ModsThanos - For code Snippet (Help to create : Nightwatcher  / Barghest / Spy )
 
-Pandapip1 (CooldownButton).https://gist.github.com/Pandapip1
+Eisbison (The OtherRole) https://github.com/Eisbison/TheOtherRoles - For code Snippet (Help to create : Informant / Detective / Morphling / Bait ) 
 
-Pandraghon (BetterSabotage). https://github.com/Pandraghon/BetterSabotage
+Pandapip1 (CooldownButton).https://gist.github.com/Pandapip1 - For Code Snippet : All buttons
 
-DaemonBeast (Unify Server / Rainbow) https://github.com/MoltenMods/Unify / https://github.com/MoltenMods/Rainbow
+Pandraghon (BetterSabotage). https://github.com/Pandraghon/BetterSabotage - For code Snippet : (Help to create : Com Sabotage / Rector Sabotage / O2 Sabotage)
 
-Herysia (CustomKeysBinds / Tryhard) https://github.com/Herysia/CustomKeyBinds / https://github.com/Herysia/AmongUsTryhard 
+DaemonBeast (Unify Server / Rainbow) https://github.com/MoltenMods/Unify / https://github.com/MoltenMods/Rainbow - For Unify Plugin and For code Snippet (Help to create : CustomColord ) 
 
-KiraaCorsac (CorsacHats) https://github.com/kiraacorsac/CorsacHats
+Herysia (CustomKeysBinds / Tryhard) https://github.com/Herysia/CustomKeyBinds / https://github.com/Herysia/AmongUsTryhard - For CustomKeysBinds plugin
 
-Matux (Oriana Launcher) https://github.com/MatuxGG/OrianaLauncher
+KiraaCorsac (CorsacHats) https://github.com/kiraacorsac/CorsacHats - For code Snippet (Help to create : CustomHats / CustomShadersHats ) 
+
+Matux (Oriana Launcher) https://github.com/MatuxGG/OrianaLauncher - For Launcher and Server
+
+
 
