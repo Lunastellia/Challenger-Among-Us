@@ -35,7 +35,7 @@ NotHunter101 (ExtraRolesAmongUs) https://github.com/NotHunter101/ExtraRolesAmong
 
 Hardel-DW (TooManyRolesMods/Thanos) https://github.com/Hardel-DW/TooManyRolesMods / https://github.com/Hardel-DW/ModsThanos - For code Snippet (Help to create : Nightwatcher  / Barghest / Spy )
 
-Eisbison (The OtherRole) https://github.com/Eisbison/TheOtherRoles - For code Snippet (Help to create : Informant / Detective / Morphling / Bait ) 
+Eisbison (The OtherRole) https://github.com/Eisbison/TheOtherRoles - For code Snippet (Help to create : Informant / Detective / Morphling / Bait / AdviseSettings) 
 
 Pandapip1 (CooldownButton).https://gist.github.com/Pandapip1 - For Code Snippet : All buttons
 
