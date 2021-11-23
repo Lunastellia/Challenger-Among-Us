@@ -160,6 +160,9 @@ The Builder has the ability to lock a vent during the game, the selected vent wi
 |![Icon](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/locker1.png?raw=true)| Block Vent Cooldown | 10 - 60 | Cooldown for use Ability |
 
 
+
+
+
 # Solo/Special Role :
 
 ## Jester
@@ -219,6 +222,10 @@ once resurrected he will have to kill a player of his choice, the latter will di
 |-|Settings|Range|Description|
 |---|---|---|---|
 |![Icon](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/revive.png?raw=true)| Ressurection Cooldown | 1 - 30 | Cooldown before use the ressurection. |
+
+
+
+
 
 
 # Impostor role :
@@ -314,18 +321,31 @@ The guesser has the possibility to kill during the meetings if he guesses the ro
 **For Help and inspirations to create roles & Features :**
 
 Framework : Reactor https://github.com/NuclearPowered/Reactor
+
 BepInEx  https://github.com/BepInEx
+
 DorCoMaNdO (Essentials) (DorCoMaNdO) https://github.com/DorCoMaNdO/Reactor-Essentials
+
 BryBry16 (BetterPolus) https://github.com/Brybry16/BetterPolus
+
 NotHunter101 (ExtraRolesAmongUs) https://github.com/NotHunter101/ExtraRolesAmongUs 
+
 Hardel-DW (TooManyRolesMods/Thanos) https://github.com/Hardel-DW/TooManyRolesMods / https://github.com/Hardel-DW/ModsThanos 
+
 Eisbison (The OtherRole) https://github.com/Eisbison/TheOtherRoles 
+
 Pandapip1 (CooldownButton).https://gist.github.com/Pandapip1
+
 Pandraghon (BetterSabotage). https://github.com/Pandraghon/BetterSabotage 
+
 DaemonBeast (Unify Server / Rainbow) https://github.com/MoltenMods/Unify / https://github.com/MoltenMods/Rainbow 
+
 Herysia (CustomKeysBinds / Tryhard) https://github.com/Herysia/CustomKeyBinds / https://github.com/Herysia/AmongUsTryhard 
+
 KiraaCorsac (CorsacHats) https://github.com/kiraacorsac/CorsacHats 
+
 Matux (Oriana Launcher) https://github.com/MatuxGG/OrianaLauncher 
+
 
 
 
