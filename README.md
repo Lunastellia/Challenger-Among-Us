@@ -48,7 +48,7 @@ The guardian can protect one player of his choice with a shield once in the game
 The engineer can use the vents just like the impostors and he can also fix one sabotage per game (or more) from anywhere thanks to the buttom repair.
 |-|Settings|Range|Description|
 |---|---|---|---|
-|-| Can Use Vent | Yes / No | Engineer can use Vent. |
+|![Icon](https://drive.google.com/file/d/1nCga-RUVFYjmJ5eXhO2bKlauWKOLaI6T/view)| Can Use Vent | Yes / No | Engineer can use Vent. |
 |-| Repair Cooldown | 10 - 60 | Cooldown after meeting before use Repair |
 |-| repair Settings | "Single" - "Round" | If "Single", Engineer can repair only one time par game, if "Round" Ability can use 1 per round. |
 
