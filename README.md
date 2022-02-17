@@ -51,7 +51,10 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 More informatios = https://www.innersloth.com/modpolicy.php
 
+## 
 
+Several parts of the source code of this Mod are subject to copyright, any reproduction or misuse without the prior consent of these owners is prohibited.
+the protected content belongs to Oriana™.
 
 
 ## Credits :
