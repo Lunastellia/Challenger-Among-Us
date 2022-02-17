@@ -15,13 +15,11 @@
 
 🔹 Start Mod Manager & Select "Mods" > "All-In-One" > Challenger > "Download".
 
-***
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Oriana_Challenger_launchMM.png?raw=true)
 
 🔹 Once the download is finished click on the play icon which replaces the download button... or on your shortcut (desktop) !
 
-
-
-
+***
 
  🔻 Install with OrianaLauncher 🔻
 
@@ -29,7 +27,7 @@
 
 🔹 Start Oriana Launcher & Select "Challenger" > "Download
 
-***
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Oriana_Challenger_launchOL.png?raw=true)
 
 🔹 Once the download is finished click on the play !
 
