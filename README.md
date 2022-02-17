@@ -1,7 +1,7 @@
 # Challenger-Among-Us
 ### Challenger MOD by Lunastellia
 
-![Install](https://amodsus.com/attachments/challenger3-2-png.529/)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Oriana_Challenger-ver4.1.0.png?raw=true)
 
 ## Launcher 
 
