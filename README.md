@@ -6,8 +6,13 @@
 
 ## Available roles and mod content
 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
+| :---:   | :-: | 
 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) 🔶 You can join Discord for more information about this : https://discord.gg/ZYsjg5dvB7
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/amodsusLogo.png?raw=true) | 🔶 More informations available on Amodsus.com => https://amodsus.com/resources/challenger-mod.103/| 
+| :---:   | :-: | 
+
+
 
 
 ## How to install !
