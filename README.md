@@ -3,11 +3,18 @@
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Oriana_Challenger-ver4.1.0.png?raw=true)
 
-## Launcher 
+
+## Available roles and mod content
+
+🔶 You can join Discord for more information about this : https://discord.gg/ZYsjg5dvB7
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true)
+
+
+## How to install !
 
 🔶  You can launch Challenger in 2 ways, With "ModManager" or "Oriana Launcher" 
 
-
+***
 
  🔻 Install with ModManager 🔻
 
@@ -31,12 +38,13 @@
 
 🔹 Once the download is finished click on the play !
 
+***
+
 ## ModPolicy
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
 More informatios = https://www.innersloth.com/modpolicy.php
-
 
 
 
