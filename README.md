@@ -2,7 +2,10 @@
 ### Challenger MOD by Lunastellia
 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Discord.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
+| :---:   | :-: | 
+
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 additional information about the roles is available on the website => OrianaGames/Challenger : (https://orianagames.com/challenger/roles?lg=en&roles)| 
 | :---:   | :-: | 
 
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss.FR : https://goodloss.fr/register| 
@@ -12,8 +15,6 @@
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/rolespanelimg.png?raw=true) 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 additional information about the roles is available on the website => OrianaGames/Challenger : (https://orianagames.com/challenger/roles?lg=en&roles)| 
-| :---:   | :-: | 
 
 ## How to install !
 
