@@ -8,7 +8,7 @@
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website : (https://orianagames.com/challenger/roles)| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account : https://goodloss.fr/register| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss : https://goodloss.fr/register| 
 | :---:   | :-: | 
 
 ## Available roles and mod content
