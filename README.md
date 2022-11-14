@@ -5,7 +5,7 @@
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Discord.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 additional information about the roles is available on the website Challenger :                     (https://orianagames.com/challenger/roles?lg=en&roles)| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website: (https://orianagames.com/challenger/roles)| 
 | :---:   | :-: | 
 
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss.FR : https://goodloss.fr/register| 
