@@ -1,7 +1,7 @@
 # Challenger-Among-Us
 ### Challenger MOD by Lunastellia
 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/4.1.3.png?raw=true)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/rolespanelimg.png?raw=true) 
 
 
 ## Available roles and mod content
