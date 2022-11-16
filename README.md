@@ -17,7 +17,36 @@
 
 ## Available Map
 
-## Available Sabotage
+### Challenger Polus 
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/MAPBP.png?raw=true)
+
+### Challenger Nuclear Polus
+
+(Available only on the Polus Challenger Map)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/mapBPn.png?raw=true)
+Game Start with "Challenger polus map" ... When the game begins, a first Timer (yellow) appears, once the latter has reached "0", Active sabotages are automatically cancelled, it is impossible to press the Buzz button and no other sabotages can be launched, however it is still possible to report a body, a second timer (red) appears and an alarm siren sounds, players will have to go to a secure area (Admin / Office) before the latter reaches "0", if players is outside the safe area they will then be killed without leaving a body! once the alert ends, players can leave the secure area, the map will be changed.
+
+### Challenger Mirah
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/MAPHQ.png?raw=true)
+* Sensor change to Detect player on electrical area.
+
+### Challenger Skeld
+
+* (Work in Progress)
+
+## Available Feature
+
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/surveyico.png?raw=true)
+
+* The icons above present in game represent the current state of the surveys (Admin / Camera / Vitale / Buzzer) 
+You can press "F12" for Hide/Show.
+When the icon is framed in Green it is possible to use it, on the other hand when the icon is red it is impossible to use it!
+
+It is possible to configure => 
+- You can disable them permanently,
+- You can deactivate them as long as a certain number of players have not been killed !
+- You can set timers on it which elapses as long as the player consults the survey,
+it is possible to configure a reset of the usage time after each meeting or never reset the timer
 
 ## Submerged
 
