@@ -5,7 +5,7 @@
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Discord.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/steam.png?raw=true) | 🔶 You can download / install and play Among Us Challenger with STEAM =>                                               Steam Store page (FR/EN) : [Click Here !](https://store.steampowered.com/app/2160150/AmongUs_Challenger/)| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/steam.png?raw=true) | 🔶 You can download / install and play Among Us Challenger with STEAM =>                                               Steam Store (FR/EN) : [Click Here !](https://store.steampowered.com/app/2160150/AmongUs_Challenger/)| 
 | :---:   | :-: | 
 
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website : (https://orianagames.com/challenger/roles)| 
