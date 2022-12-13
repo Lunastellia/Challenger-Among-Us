@@ -5,10 +5,13 @@
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Discord.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
 | :---:   | :-: | 
 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Steam.png?raw=true) | 🔶 You can download / install and play challenger with STEAM  =>                                               Discord (FR/EN) : [Steam store page](https://store.steampowered.com/app/2160150/AmongUs_Challenger/)| 
+| :---:   | :-: | 
+
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website : (https://orianagames.com/challenger/roles)| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss : https://goodloss.fr/register| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss : https://orianagames.com/register| 
 | :---:   | :-: | 
 
 ## Available roles
@@ -75,7 +78,7 @@ From Challenger 5.0.0 version, Submerged is included on the update, most roles a
 
 🔹 Download and Instal STEAM : (https://store.steampowered.com/about/).
 
-🔹 search the store "AmongUs Challenger", Add, Download and play ! (Not release yet, use BETA KEY)
+🔹 search the store "AmongUs Challenger", Add, Download and play ! (https://store.steampowered.com/app/2160150)
 
 
 ***
