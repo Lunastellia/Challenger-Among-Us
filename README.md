@@ -108,6 +108,11 @@ More informatios = https://www.innersloth.com/modpolicy.php
 Several parts of the source code of this Mod are subject to copyright, any reproduction or misuse without the prior consent of these owners is prohibited.
 the protected content belongs to Oriana®.
 
+### about the License and non-open source code
+
+The source code to be used (see credits) being licensed is made available: "CS" branch.
+A part of the code is hidden for copyright and security reasons (Notably the content of the ranked parts related to the API Goodloss, to login on Steam and data related to discord), these hidden parts do not violate any licenses.
+
 
 ## Credits :
 
