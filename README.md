@@ -95,6 +95,11 @@ From Challenger 5.0.0 version, Submerged is included on the update, most roles a
 
 ***
 
+
+## TOS
+
+- Users must consult the TOS.
+
 ## ModPolicy
 
 ### Innersloth LLC
@@ -106,62 +111,37 @@ More informatios = https://www.innersloth.com/modpolicy.php
 ### Oriana® 
 
 Several parts of the source code of this Mod are subject to copyright, any reproduction or misuse without the prior consent of these owners is prohibited.
-the protected content belongs to Oriana®.
+the protected content belongs to Oriana®. 
 
+## PROJETCS (+ LICENSES)
 
-## Credits :
+- BepInEx (Framework) -> https://github.com/BepInEx
+- Challenger Data (Challenger.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-Challenger
+- Challenger Open Source Part (ChallengerOS.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerOS
+- Challenger Level (ChallengerLevel.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerLevel
+- Goodloss Mod (GLMod.dll) -> https://github.com/MatuxGG/MatuxMod
+- Reactor (Reactor.dll) -> Reactor https://github.com/NuclearPowered/Reactor
+- Submerged (Submerged.dll) -> https://github.com/SubmergedAmongUs/Submerged 
+- Launcher Challenger -> https://github.com/MatuxGG/ChallengerLauncher
+- Server (Impostor) -> https://github.com/DigiWorm0/LevelImposter/releases
 
-**For Help and inspirations to create roles & Features :**
+##Credits :
 
-Framework : Reactor https://github.com/NuclearPowered/Reactor
+### OrianaGames Team :
 
-BepInEx https://github.com/BepInEx
+Lunastellia - Game Designer / Developper (Challenger, Client)
 
-Matux (Mod Manager / Goodloss.fr / Goodloss) https://github.com/MatuxGG/OrianaLauncher
-
-5Up / Submerged Team (Submerged) https://github.com/SubmergedAmongUs/Submerged 
-
-js6pak (ImpostorServers => Gameserver) https://github.com/Impostor/Impostor 
-
-BryBry16 (BetterPolus => source code) https://github.com/Brybry16/BetterPolus
-
-NotHunter101 (ExtraRolesAmongUs => Concept Engineer - Concept Jester - Concept Guardian / HarryPotterMod (FatherOfHeathens)  => Concept & Source Mesmer - Item Spawn Concept et Source) https://github.com/NotHunter101/ExtraRolesAmongUs / https://github.com/FatherofHeathens/HarryPotterAmongUs
-
-Hardel-DW (TooManyRolesMods => Concept Detective - Concept Nightwatch - Concept Mayor / Thanos => Concept Ghost - Concept Morphling) https://github.com/Hardel-DW/TooManyRolesMods / https://github.com/Hardel-DW/ModsThanos
-
-EWoodi-Dev (SheriffMod => Concept Sheriff / Love Couple Mod => Concept Cupid) https://github.com/Woodi-dev/Among-Us-Sheriff-Mod / https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod 
-
-KiraYamato94 (LasMonjas - Source Buttons - Source Create Vent Barghest  - Source CustomHats/Visor/NamePlate ) https://github.com/KiraYamato94/LasMonjas 
-
-Eisbison (The OtherRole => Concept & Source Bait - Source Mayor - Source Detective - Concept Informant - Concept et Source Mentalist - Concept et Source Builder - Source Guesser - Concept & Source Fake - Source Dictator - Source Scrambler - Concept Vector) https://github.com/Eisbison/TheOtherRoles
-
-slushiegoose (Town of Us => Concept Guesser => Concept Arsonist - Concept Outlaw - Concept Lawkeeper - Source du Janitor - Concept Basilisk) https://github.com/slushiegoose/Town-Of-Us 
-
-Aeolic (CultistMod => Concept Cultist) https://github.com/Aeolic/CultistMod 
-
-Pandapip1 (CooldownButton => Concept Button) https://gist.github.com/Pandapip1
-
-Pandraghon (BetterSabotage => Concept Scrambler - Concept Better Sabotages com Unknow players - Concept & Source Better Sabotage O2 Fainting - Concept & Source Better Sabotage Reactor Shaking ). https://github.com/Pandraghon/BetterSabotage
-
-DaemonBeast (Rainbow => Source CustomColors) https://github.com/MoltenMods/Rainbow
-
-Herysia (Tryhard - Concept Admin/Vital/Cam disabled - Concept Vent animation disabled - Concept - Multi Scan) https://github.com/Herysia/AmongUsTryhard
-
-(Launchepad => Concept Spy)
-
-Ziagmonstader (VentDigger => Concept create vent Barghest) https://github.com/ZiadMontaser/VentDigger 
-
-Jaytan804 => original idea and concept for : Reaper role.
+Matux - Goodloss Developper (Server, Launcher , API, GLMod.dll)
 
 Asman - design picture, cosmetics & original graphique content
 
+### Other credits :
+
 Inglorious Mustard Team - for alpha test & share idea/concept.
 
-Oriana Gaming Team - for alpha test & share idea/concept.
-
-Reactor (discord server) Community Dev/Moddeur for help to debugg.
-
 Noé Guitton - for Music original creator.
+
+Jaytan804 - original idea and concept for : Reaper role.
 
 
 
