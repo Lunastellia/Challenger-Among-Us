@@ -98,7 +98,7 @@ From Challenger 5.0.0 version, Submerged is included on the update, most roles a
 
 ## TOS
 
-- Users must consult the TOS.
+- Users must consult the TOS = https://github.com/Lunastellia/Challenger-Among-Us/blob/main/TOS
 
 ## ModPolicy
 
