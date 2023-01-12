@@ -25,7 +25,7 @@
 ### Challenger Polus & Nuclear Polus
 
 (Available only on the Polus Challenger Map)
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPPBN.png?raw=true)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPBPN.png?raw=true)
 Game Start with "Challenger polus map" ... When the game begins, a first Timer (yellow) appears, once the latter has reached "0", Active sabotages are automatically cancelled, it is impossible to press the Buzz button and no other sabotages can be launched, however it is still possible to report a body, a second timer (red) appears and an alarm siren sounds, players will have to go to a secure area (Admin / Office) before the latter reaches "0", if players is outside the safe area they will then be killed without leaving a body! once the alert ends, players can leave the secure area, the map will be changed.
 
 ### Challenger Mirah
