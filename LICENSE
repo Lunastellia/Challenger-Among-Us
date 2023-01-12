@@ -1,0 +1,27 @@
+               - CHALLENGER CLAUSE -
+
+"This clause applies to anyone using a part, certain projects or all of the projects constituting AmongUs Challenger.
+
+• The GNU GPL v3 license allows you to reproduce, copy, and modify the code, however, some parts of the code are subject to copyright filed under the Oriana® brand 
+registered with the INPI: numbered 4855518 and filed/registered on 24/03/2022.Certain legal restrictions apply and take precedence over the rights granted by the license,
+these elements will be referred to as "protected elements" and the representatives of the brand will be referred to as "developers".
+
+• Protected elements may not be used for the purpose of competing with AmongUs Challenger on commercial, marketing,
+and public use/distribution aspects without the agreement of the developers.
+
+• In the event that an agreement is given by the developers: a link to the AmongUs Challenger project must be mentioned on the user's project,
+as well as the names of the developers. In the event that a project uses AmongUs Challenger as a "code base"/ "fork",
+the page must also clearly and visibly indicate that it is a fork of the original project and provide a link to the original project in the first lines.
+
+• AmongUs Challenger uses an API, in compliance with the GNU GPL v3 license, you can copy, reproduce, and modify the code, however,
+access to the API (Goodloss.fr / OrianaGames.com) and AmongUs Challenger game servers is strictly prohibited without the agreement of the developers.
+Reproduction of a similar API is also prohibited (intellectual property code) without the agreement of the developers.
+
+• Private projects that are not intended to be shared with other users will be allowed, provided that functions related to the API are deactivated.
+
+• Illegal access to the API through the use of modified clients or other methods that aim to modify/alter its functionality or statistics is prohibited.
+
+• All parts of the project that are not part of the protected elements are excluded from this clause,
+users can therefore use them freely in compliance with the GNU GPL v3 license."
+
+- More information about protected elements: "CHALLENGER NOTICE" => https://github.com/Lunastellia/Challenger-Among-Us/blob/main/CHALLENGER%20NOTICE
