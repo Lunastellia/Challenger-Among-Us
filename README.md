@@ -112,11 +112,11 @@ More informatios = https://www.innersloth.com/modpolicy.php
 Several parts of the source code of this Mod are subject to copyright, any reproduction or misuse without the prior consent of these owners is prohibited.
 the protected content belongs to Oriana®. 
 
-## PROJETCS (+ LICENSES)
+## PROJETCS LINK
 
 - BepInEx (Framework) -> https://github.com/BepInEx
-- Challenger Data (Challenger.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-Challenger
-- Challenger Open Source Part (ChallengerOS.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerOS
+- Challenger (Challenger.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-Challenger
+- Challenger OS (ChallengerOS.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerOS
 - Challenger Level (ChallengerLevel.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerLevel
 - Goodloss Mod (GLMod.dll) -> https://github.com/MatuxGG/MatuxMod
 - Reactor (Reactor.dll) -> Reactor https://github.com/NuclearPowered/Reactor
