@@ -2,35 +2,34 @@
 ### Challenger MOD by Lunastellia
 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Discord.png?raw=true) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Discord.png) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/steam.png?raw=true) | 🔶 You can download / install and play Among Us Challenger with STEAM =>                                               -Steam Store- (FR/EN) : [Click Here !](https://store.steampowered.com/app/2160150/AmongUs_Challenger/)| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/steam.png?raw=true) | 🔶 You can download / install and play Among Us Challenger with STEAM =>                                               -Steam Store- (FR/EN) : [Click Here !](https://store.steampowered.com/app/2160150/AmongUs_Challenger/)| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website : (https://orianagames.com/challenger/roles)| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website : (https://orianagames.com/challenger/roles)| 
 | :---:   | :-: | 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss : https://orianagames.com/register| 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss : https://orianagames.com/register| 
 | :---:   | :-: | 
 
 ## Available roles
 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/rolespanelimg.png?raw=true) 
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/rolespanelimg.png?raw=true) 
 
 ## Available Map
 
-### Challenger Polus 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/MAPBP.png?raw=true)
 
-### Challenger Nuclear Polus
+
+### Challenger Polus & Nuclear Polus
 
 (Available only on the Polus Challenger Map)
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/mapPBn.png?raw=true)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPPBN.png?raw=true)
 Game Start with "Challenger polus map" ... When the game begins, a first Timer (yellow) appears, once the latter has reached "0", Active sabotages are automatically cancelled, it is impossible to press the Buzz button and no other sabotages can be launched, however it is still possible to report a body, a second timer (red) appears and an alarm siren sounds, players will have to go to a secure area (Admin / Office) before the latter reaches "0", if players is outside the safe area they will then be killed without leaving a body! once the alert ends, players can leave the secure area, the map will be changed.
 
 ### Challenger Mirah
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/MAPHQ.png?raw=true)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPHQ.png?raw=true)
 * Sensor change to Detect player on electrical area.
 
 ### Challenger Skeld
@@ -39,7 +38,7 @@ Game Start with "Challenger polus map" ... When the game begins, a first Timer (
 
 ## Available Feature
 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/surveyico.png?raw=true)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/surveyico.png?raw=true)
 
 * The icons above present in game represent the current state of the surveys (Admin / Camera / Vitale / Buzzer) 
 You can press "F12" for Hide/Show.
@@ -89,7 +88,7 @@ From Challenger 5.0.0 version, Submerged is included on the update, most roles a
 
 🔹 Start Mod Manager & Select "Mods" > "All-In-One" > Challenger > "Download".
 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Oriana_Challenger_launchMM.png?raw=true)
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Oriana_Challenger_launchMM.png?raw=true)
 
 🔹 Once the download is finished click on the play icon which replaces the download button... or on your shortcut (desktop) !
 
