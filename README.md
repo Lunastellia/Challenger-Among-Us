@@ -99,6 +99,12 @@ From Challenger 5.0.0 version, Submerged is included on the update, most roles a
 
 - Users must consult the TOS = https://github.com/Lunastellia/Challenger-Among-Us/blob/main/TOS
 
+## LICENSE :
+
+This File (Challenger.dll) Use :
+- GPL-3.0 License
+- Custom Owner license (LICENSE-CLAUSE). https://github.com/Lunastellia/Challenger-Among-Us/blob/main/LICENSE
+
 ## ModPolicy
 
 ### Innersloth LLC
@@ -112,6 +118,8 @@ More informatios = https://www.innersloth.com/modpolicy.php
 Several parts of the source code of this Mod are subject to copyright, any reproduction or misuse without the prior consent of these owners is prohibited.
 the protected content belongs to Oriana®. 
 
+- Copyright : https://github.com/Lunastellia/AmongUs-Challenger-Challenger/blob/main/LICENSE-NOTICE
+
 ## PROJETCS LINK
 
 - BepInEx (Framework) -> https://github.com/BepInEx
@@ -124,7 +132,7 @@ the protected content belongs to Oriana®.
 - Launcher Challenger -> https://github.com/MatuxGG/ChallengerLauncher
 - Server (Impostor) -> https://github.com/DigiWorm0/LevelImposter/releases
 
-##Credits :
+## Credits :
 
 ### OrianaGames Team :
 
