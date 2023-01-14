@@ -142,6 +142,13 @@ Matux - Goodloss Developper (Server, Launcher , API, GLMod.dll)
 
 Asman - design picture, cosmetics & original graphique content
 
+### Translation :
+
+
+四个憨批汉化组 (https://amonguscn.club) - Translation Chiness simplify 
+-> Repository : https://github.com/XiezibanWrite/Challenger-Among-Us
+
+
 ### Other credits :
 
 Inglorious Mustard Team - for alpha test & share idea/concept.
