@@ -16,7 +16,7 @@
 
 ## Available roles
 
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/rolespanelimg.png?raw=true) 
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/rolespanelimg52X.png?raw=true) 
 
 ## Available Map
 
