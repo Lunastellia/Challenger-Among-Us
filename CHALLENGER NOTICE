@@ -37,6 +37,7 @@ to the Oriana brand, any use or reproduction without prior agreement is prohibit
 -	TimeLord: Concept of the role in its entirety
 -	Hunter: Concept of the role, excluding the effect of the ability generating a sprite on the tracked player, only the action of killing the player at the death of the Hunter.
 -	Spirit: Concept of the role in its entirety
+- Bait: Warn Area concept Only <<ADD 02/14 - 2023)>>
 -	CopyCat: Concept of the role in its entirety
 -	Teammate: Concept of the role in its entirety
 -	Sentinel: Concept of the role in its entirety
@@ -61,5 +62,10 @@ to the Oriana brand, any use or reproduction without prior agreement is prohibit
 
 * The Roles/Components/Concept mentioned above are subject to the copyright belonging to the Oriana brand,
  any use or reproduction without prior agreement is prohibited.
+
+=> Custom Event / Map Modifier <<ADD 02/14 - 2023)>>
+- Lover Event + New TabSettings <<ADD 02/14 - 2023)>>
+The graphic components that make them up are from materials belonging to Innersloth, the concept and features are subject to copyright belonging to the Oriana brand, 
+any use or reproduction without prior agreement is prohibited. 
 
 - The notice may be modified to add / remove content.
