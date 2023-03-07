@@ -26,11 +26,21 @@
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPBPN.png?raw=true)
 
-Game Start with "Challenger polus map" ... When the game begins, a first Timer (yellow) appears, once the latter has reached "0", Active sabotages are automatically cancelled, it is impossible to press the Buzz button and no other sabotages can be launched, however it is still possible to report a body, a second timer (red) appears and an alarm siren sounds, players will have to go to a secure area (Admin / Office) before the latter reaches "0", if players is outside the safe area they will then be killed without leaving a body! once the alert ends, players can leave the secure area, the map will be changed.
+* New Nuclear sabotage added
+- When the game begins, a first Timer (yellow) appears, once the latter has reached "0", Active sabotages are automatically cancelled, it is impossible to press the Buzz button and no other sabotages can be launched, however it is still possible to report a body, a second timer (red) appears and an alarm siren sounds, players will have to go to a secure area (Admin / Office) before the latter reaches "0", if players is outside the safe area they will then be killed without leaving a body! once the alert ends, players can leave the secure area, the map will be changed.
+* New room added on specimen room
+* Vital utility and some task were mooved.
 
 ### Challenger Mirah
-![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPHQ.png?raw=true)
-* Sensor change to Detect player on electrical area.
+![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPHQ521.png?raw=true)
+* the corridors and the configuration of the map to be modified
+* Light sabotage and some task were mooved.
+* Sensor utility was deleted.
+* Add vitals on medbay
+* Add new room above reactor/Laboratory : Security
+* Add new Camera on security (Surveillance drone)
+- Surveillance drone: only 1 player can use the drone at a time, the drone can be moved and keeps its last position.
+
 
 ### Challenger Skeld
 
